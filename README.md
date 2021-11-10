@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Kels-bit
-- 👀 I’m interested in ... Tech
+- 👋 Hi, I’m Kelsey Jones
+- 👀 I’m interested in ...Tech,Games
 - 🌱 I’m currently learning ...Python, C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ...mrktjones@protonmail.com
 
 <!---
 Kels-bit/Kels-bit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
