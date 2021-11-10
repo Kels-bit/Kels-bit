@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kelsey Jones
+- 👋 Hi,  I’m Kelsey Jones
 - 👀 I’m interested in ...Tech,Games
 - 🌱 I’m currently learning ...Python, C++
 - 📫 How to reach me ...mrktjones@protonmail.com
